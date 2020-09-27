@@ -131,23 +131,23 @@ button:hover:after {
 
 @media (min-width:320px) and (max-width:767px) {
     h1 {
-        font-size: 20px;
+        font-size: 22px;
         top: 20%;
-        left: 38%;
+        left: 50%;
     }
     p {
         font-size: 10px;
         top: 18%;
-        left: 42%;
+        left: 50%;
     }
     p1 {
         font-size: 8px;
         top: 25%;
-        left: 40%;
+        left: 50%;
     }
     ul {
-        top: 38%;
-        left: 34%;
+        top: 40%;
+        left: 50%;
         padding-right: 5px;
     }
     ul li {
@@ -163,8 +163,8 @@ button:hover:after {
         font-size: 10px;
         padding: 4px;
         width: 60px;
-        top: 48%;
-        left: 28%;
+        top: 52%;
+        left: 36%;
     }
     button:after {
         top: 3px;
