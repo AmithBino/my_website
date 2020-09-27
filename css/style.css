@@ -132,13 +132,13 @@ button:hover:after {
 @media (min-width:320px) and (max-width:767px) {
     h1 {
         font-size: 22px;
-        top: 20%;
+        top: 22%;
         left: 50%;
     }
     p {
         font-size: 10px;
         top: 18%;
-        left: 50%;
+        left: 52%;
     }
     p1 {
         font-size: 8px;
@@ -164,7 +164,7 @@ button:hover:after {
         padding: 4px;
         width: 60px;
         top: 52%;
-        left: 32%;
+        left: 36%;
     }
     button:after {
         top: 3px;
