@@ -142,12 +142,12 @@ button:hover:after {
     }
     p1 {
         font-size: 8px;
-        top: 25%;
+        top: 26%;
         left: 50%;
     }
     ul {
         top: 40%;
-        left: 50%;
+        left: 48%;
         padding-right: 5px;
     }
     ul li {
@@ -164,7 +164,7 @@ button:hover:after {
         padding: 4px;
         width: 60px;
         top: 52%;
-        left: 36%;
+        left: 40%;
     }
     button:after {
         top: 3px;
